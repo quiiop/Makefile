@@ -1,0 +1,4 @@
+#main Makefile
+FUNC1_EMABLE = y
+FUNC2_EMABLE = y
+FUNC3_EMABLE = y
